@@ -1,3 +1,7 @@
 <h1> Sistema de registro</h1>
 
-- Estado del proyecto
+- Estado del proyecto: En construcción
+
+Para ejecutar ewl sistema debes poner :
+
+```npm install react```
